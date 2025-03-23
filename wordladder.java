@@ -1,4 +1,9 @@
-package Project2;
+//Nutthamon Wongwaiwuttiguldej 6513165
+//Nopparuj Ritnatikul 6513168
+//Nitiwadee Limpayaraya 6513169
+//Angelina Chainithikan 6513178
+
+package Project2_178;
 
 import java.util.*;
 import java.io.*;
@@ -251,7 +256,7 @@ class word_graphs {
 class file {
     
     private String filename = "";
-    private String path = "src/main/java/Project2/";
+    private String path = "src/main/java/Project2_178/";
     private TreeMap<String, LinkedHashSet<String>> wordmap2 = new TreeMap();
    // private LinkedHashMap<String,Character> tmp;
     private TreeSet<String> treetemp;
